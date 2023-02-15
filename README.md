@@ -15,4 +15,3 @@ Advanced details please reference : https://github.com/alpaddesai/MedicalDevices
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference Additional details reference https://github.com/alpaddesai/GraduateDegrees 
