@@ -15,4 +15,3 @@ Advanced details please reference : https://github.com/alpaddesai/MedicalDevices
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
-
