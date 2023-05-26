@@ -10,8 +10,9 @@ Advanced details please reference : https://github.com/alpaddesai/MedicalDevices
 
 #### Paid Employment: https://github.com/alpaddesai/PowerManagementIntegratedCircuit   
 #### Sample Revenue Generating Projects: https://github.com/alpaddesai/PCBDesignProcess
-#### Popular Vote Project: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept 
-#### Entrance test: https://github.com/alpaddesai/GraduateRecordExamTestScores
+#### Popular Vote Project: 
+#### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept
+#### Entrance Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores
 #### Admission Letter: https://github.com/alpaddesai/GraduateECESchoolAdmissionLetter
 
 ![image](EthicsandExcellence.png)
