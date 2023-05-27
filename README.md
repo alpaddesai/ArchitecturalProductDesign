@@ -14,7 +14,7 @@ Advanced details please reference : https://github.com/alpaddesai/MedicalDevices
 #### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTest_Electronics_Communications
 #### Entrance Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores
 #### Admission Letter: https://github.com/alpaddesai/GraduateECESchoolAdmissionLetter
-#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/CoverLetters
+#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/DesignEngineeringECE_CoverLetters
 
 ![image](EthicsandExcellence.png)
 
