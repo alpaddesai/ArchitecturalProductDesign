@@ -14,7 +14,6 @@ Advanced details please reference : https://github.com/alpaddesai/RFMicroelectro
 #### Popular Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTest_Electronics_Communications
 #### Popular Vote Topic: Computer Architecture Exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_CS
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores
-#### Admission Letter: https://github.com/alpaddesai/GraduateECESchoolAdmissionLetter
 #### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/DesignEngineeringECE_CoverLetters
 #### Learning with Certifications https://github.com/alpaddesai/UdemyCertificationsMSECE
 
